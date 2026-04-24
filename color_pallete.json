@@ -1,0 +1,10 @@
+{
+  "name": "Slate & Indigo",
+  "dataColors": ["#2D3A8C","#4F63C2","#7B92E0","#2E9E6B","#C2392D","#E8A020","#A8B8EE","#1A1F3C"],
+  "background": "#F4F5F9",
+  "foreground": "#1A1F3C",
+  "tableAccent": "#2D3A8C",
+  "visualStyles": {
+    "*": { "*": { "fontFamily": [{"value": "Segoe UI"}] } }
+  }
+}
