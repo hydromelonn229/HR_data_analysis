@@ -122,7 +122,7 @@ Narrative conclusions page summarising the main findings and strategic recommend
 
 **Khant Min Lwin**  
 Aspiring Data Analyst  
-[GitHub](https://github.com) • [LinkedIn](https://linkedin.com)
+[GitHub](https://github.com/hydromelonn229) • [LinkedIn](https://www.linkedin.com/in/khant-min-lwin-57ba90303/)
 
 ---
 
