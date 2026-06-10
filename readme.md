@@ -1,9 +1,9 @@
-# 📊 Workforce Analytics Dashboard
+# Workforce Analytics Dashboard
 ### Understanding Employee Performance, Compensation, and Attrition Drivers
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an end-to-end workforce analytics dashboard built in **Power BI**, analyzing over **2 million employee records** across 7 countries and 5 departments. The goal is to uncover patterns in employee attrition, compensation equity, and performance distribution — translating raw HR data into actionable business insights.
 
@@ -11,7 +11,7 @@ This project is an end-to-end workforce analytics dashboard built in **Power BI*
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 | Property | Detail |
 |---|---|
@@ -25,7 +25,7 @@ This project is an end-to-end workforce analytics dashboard built in **Power BI*
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** — Data cleaning and preprocessing
 - **Power BI Desktop** — Dashboard development, DAX measures, data modelling
@@ -34,7 +34,7 @@ This project is an end-to-end workforce analytics dashboard built in **Power BI*
 
 ---
 
-## 📐 DAX Measures
+## DAX Measures
 
 Key measures created for the dashboard:
 
@@ -52,7 +52,7 @@ Median Salary = MEDIAN(hr_data_clean[Salary])
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Workforce Overview
 High-level snapshot of the workforce composition including department distribution, country breakdown, job level spread, and salary band distribution.
@@ -71,7 +71,7 @@ Narrative conclusions page summarising the main findings and strategic recommend
 
 ---
 
-## 🔥 Key Findings
+## Key Findings
 
 **Workforce Composition**
 - Junior and Mid-level employees make up ~76% of the workforce — retention failures at these levels have outsized organisational impact
@@ -96,7 +96,7 @@ Narrative conclusions page summarising the main findings and strategic recommend
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |---|---|
@@ -106,7 +106,7 @@ Narrative conclusions page summarising the main findings and strategic recommend
 
 ---
 
-## 🚀 How to View
+## How to View
 
 **Option A — Interactive (recommended)**
 1. Download `HR_Attrition_Analysis.pbix`
@@ -118,7 +118,7 @@ Narrative conclusions page summarising the main findings and strategic recommend
 
 ---
 
-## 👤 Author
+## Author
 
 **Khant Min Lwin**  
 Aspiring Data Analyst  
